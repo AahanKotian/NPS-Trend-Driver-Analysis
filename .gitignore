@@ -1,0 +1,20 @@
+# SQLite databases
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Kaggle raw files (download separately)
+googleplaystore.csv
+googleplaystore_user_reviews.csv
